@@ -1,0 +1,6 @@
+framework module Pods_MyTapi {
+  umbrella header "Pods-MyTapi-umbrella.h"
+
+  export *
+  module * { export * }
+}
